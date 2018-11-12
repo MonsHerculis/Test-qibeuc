@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cuebiq</string>
+
+
+
+
+    <string name="permessi_dialog_title">Richiesta permessi</string>
+    <string name="permessi_dialog_message">Sono richiesti i permessi di scrittura in memoria per salvare temporaneamente il pdf creato.</string>
+
+    <string name="owner">Watcher</string>
+    <string name="repo">Repo</string>
+    <string name="caricamento">Caricamento</string>
+
+    <string name="lista_vuota">Lista vuota</string>
+    <string name="not_found">Elementi non trovati - 404</string>
+    <string name="no_signal">Connettività assente</string>
+    <string name="empty_field">I campi devono essere valorizzati</string>
+    <string name="cerca">Cerca</string>
+
+
+</resources>
